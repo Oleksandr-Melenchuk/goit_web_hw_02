@@ -1,5 +1,5 @@
-from venv_addressbook.objects import *
-from venv_addressbook.func import *
+from objects import *
+from func import *
 
 
 def main():

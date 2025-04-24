@@ -1,5 +1,5 @@
-from venv_addressbook.decorators import *
-from venv_addressbook.objects import *
+from decorators import *
+from objects import *
 import pickle
 
 
