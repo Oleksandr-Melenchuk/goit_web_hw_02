@@ -19,4 +19,4 @@ RUN poetry config virtualenvs.create false \
 COPY venv_addressbook/ ./venv_addressbook
 
 
-CMD ["python", "/venv_addressbook/main.py"]
+CMD ["python", "/app/venv_addressbook/main.py"]
